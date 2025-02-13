@@ -4,20 +4,21 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-    background-image: url('sfondo.png');
-    background-size: contain;
+    background-image: url('pannelli.jpg');
+    background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
     margin: 20px 0;
     font-size: 28px;
-    color: #004d00;
+    color: #228b22;
 }
 
 .subtitle {
     font-size: 18px;
-    color: #008000;
+    color: #32cd32;
     margin-bottom: 20px;
 }
 
