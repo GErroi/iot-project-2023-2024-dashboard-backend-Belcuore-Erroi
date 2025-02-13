@@ -5,20 +5,29 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('sfondo.png');
-    background-size: cover;
+    background-size: contain;
     background-position: center;
 }
 
 h1 {
     margin: 20px 0;
     font-size: 28px;
-    color: #333;
+    color: #004d00;
 }
 
 .subtitle {
     font-size: 18px;
-    color: #666;
+    color: #008000;
     margin-bottom: 20px;
+}
+
+p.caption {
+    font-size: 16px;
+    color: #000; /* Nero */
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    line-height: 1.5;
 }
 
 .container {
