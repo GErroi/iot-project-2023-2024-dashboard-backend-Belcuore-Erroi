@@ -20,3 +20,4 @@ L’architettura del sistema è composta dai seguenti elementi:
 
 ## Il backend del sistema è disponibile nel seguente repository: [wot-SolarProductionForecast-Backend-BelcuoreErroi](https://github.com/GErroi/wot-SolarProductionForecast-Backend-BelcuoreErroi)
 ## Il frontend del sistema è disponibile nel seguente repository: [wot-SolarProductionForecast-Frontend-BelcuoreErroi](https://github.com/GErroi/wot-SolarProductionForecast-FrontEnd-BelcuoreErroi)
+## Link pagina web di presentazione: [Web Site](https://gerroi.github.io/wot-SolarProductionForecast-Presentation-BelcuoreErroi/)
